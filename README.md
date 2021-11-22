@@ -1,6 +1,8 @@
 # Skin Grabber
 
-[![Discord Bots](https://top.gg/api/widget/734476629954265108.svg)(https://top.gg/bot/734476629954265108)
+<a href="https://top.gg/bot/734476629954265108">
+  <img src="https://top.gg/api/widget/734476629954265108.svg">
+</a>
 
 #### Tools Used:
  * [DiscordJS](https://discord.js.org/#/docs/main/stable/general/welcome)
