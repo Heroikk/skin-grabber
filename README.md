@@ -8,6 +8,7 @@
 # Commands
 
 **[option] = Required**
+
 **\<option\> = Optional**
 
 ### Info Commands
