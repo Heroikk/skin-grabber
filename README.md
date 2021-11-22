@@ -1,5 +1,7 @@
 # Skin Grabber
 
+[![Discord Bots](https://top.gg/api/widget/734476629954265108.svg)(https://top.gg/bot/734476629954265108)
+
 #### Tools Used:
  * [DiscordJS](https://discord.js.org/#/docs/main/stable/general/welcome)
  * [Minotar](https://minotar.net)
