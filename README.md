@@ -1,5 +1,3 @@
-# Skin Grabber
-
 <a href="https://top.gg/bot/734476629954265108">
   <img src="https://top.gg/api/widget/734476629954265108.svg">
 </a>
